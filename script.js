@@ -2,7 +2,7 @@
 const CONFIG = {
   brand: { name: 'Clouds & Cover' },
   currency: '₱',
-  price: 200,                                   // one set price for every color
+  price: 140,                                   // one set price for every color
   email: 'alzielle_panganiban@dlsu.edu.ph',
   orderFormUrl: 'https://docs.google.com/forms/d/1YB6uBL1dGD_2V37zWiYCYqjGmkwd-ZLqyzSBbvVvnyM/viewform?embedded=true',
   clouds: { rows: 7, ms: 1000, colors: ['#ffffff', '#f8c8d8', '#bfe0f2', '#fbf0b0', '#cdb8e8', '#f8f4ea'] }, // transition cloud size/speed/colors
